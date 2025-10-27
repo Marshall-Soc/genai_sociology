@@ -2,7 +2,7 @@
 
 [AJ Alvero](https://ajalvero.com/), [Dustin S. Stoltz](https://www.dustinstoltz.com/), [Oscar Stuhler](https://oscarstuhler.org/), & [Marshall A. Taylor](https://www.marshalltaylor.net)
 
-This repository contains all `R` code necessary to reproduce the analysis in "Generative AI in Sociological Research: State of the Discipline," forthcoming in *Sociological Science*.
+This repository contains all `R` code necessary to reproduce the analysis in "Generative AI in Sociological Research: State of the Discipline." 
 
 Once you download this repo, make your working directory the `scripts/` subfolder. You will then want to start with the `0_start_here.R` file.
 
